@@ -6,6 +6,12 @@ function forLoop(array) {
                 array.push(`I am ${num} strange loops.`);
           }
         }
-        
+
         return array;
+}
+
+let countdown = number
+
+while (number > 0) {
+  console.log(--countdown)
 }
