@@ -10,8 +10,8 @@ function forLoop(array) {
         return array;
 }
 
-let countdown = number
+let countdown = n
 
-while (number > 0) {
+while (n > 0) {
   console.log(--countdown)
 }
